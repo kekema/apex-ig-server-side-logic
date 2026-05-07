@@ -23,3 +23,6 @@ Special bind variables (write):<br/>
 Execution Scope:
 </p>
 <img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/4fbca4c1-75b8-438a-8e77-c18d83a37832" />
+
+<h3>Plugin versions</h3>
+Version 1.0.0 - build under APEX 24.2<br>
