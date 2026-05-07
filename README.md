@@ -2,7 +2,7 @@
 Enables to apply IG row logic server side for one or multiple rows, including manipulating column values and setting validation messages.
 
 <p>
-<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/2bb00cd4-93f2-4f74-97d8-75445b40fc45" />
+<img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/2bb00cd4-93f2-4f74-97d8-75445b40fc45" />
 </p>
 <p>PL/SQL anonymous block: use bind syntax to read or write row values as per the column name, eg: <code>:NAME</code>, <code>:JOB</code>, <code>:ORDER_STATUS</code></p>
 
@@ -22,4 +22,4 @@ Special bind variables (write):<br/>
 <p>
 Execution Scope:
 </p>
-<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/4fbca4c1-75b8-438a-8e77-c18d83a37832" />
+<img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/4fbca4c1-75b8-438a-8e77-c18d83a37832" />
